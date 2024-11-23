@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bright Abalogu
 - 👀 I’m interested in the application of Data Science and AI
-- 🌱 I’m currently learning Data Science at ALX Nigeria
+- 🌱 I’m an ALX DS Alumni
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 Connect with me via my email
 - 😄 Pronouns: I am a 'He' 😄 lol
